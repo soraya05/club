@@ -6,3 +6,7 @@ admin.site.register(Socio)
 
 admin.site.register(Cuota)
 
+
+
+
+
